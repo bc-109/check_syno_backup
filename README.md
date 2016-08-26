@@ -29,8 +29,11 @@ For diagnostic purposes, just add the -v (verbose) switch. This will display use
 Here are some sample outputs :
 
 `OK: Last good result (26/08/2016 04:02:43) is within the last 1 days, Execution time (2 min) is within bounds` 
+
 `WARNING: Last good result (26/08/2016 07:27:45) is within the last 1 days, [WARN] Execution time (57 min) is more than 30 minutes`
+
 `CRITICAL: [CRIT] Last good result (20/08/2016 16:33:16) is more than 3 days old, [CRIT] Execution time (153 min) is more than 120 minutes`  
+
 `UNKNOWN: Did not find any Backup task with name [Sauvegarde locale]`
 
 
