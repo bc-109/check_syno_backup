@@ -41,11 +41,9 @@ Here are some sample outputs :
 
 In order to get the results from a Nagios server, this software must be run on the Synology NAS through NRPE (Nagios Remote Plugin Executor).
 
-
 ## Installation and configuration with Nagios and NRPE ##
 
-See [Nagios_configuration.md](Nagios_configuration.md "Nagios configuration doc") for more information about installation, configuration and troubleshooting.
-
+todo...
 
 ## License ##
 This is free software: you can redistribute it and/or modifyit under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
