@@ -33,7 +33,7 @@ Object definition :
     define host{
       use        linux-server
       host_name  MY_SYNOLOGY_NAS   
-      alias      This is the name of my Sonology NAS   
+      alias      This is the name of my Synology NAS   
       address    192.168.1.2
       notes_url  http://$HOSTADDRESS 
       }
