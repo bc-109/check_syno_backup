@@ -30,7 +30,7 @@
 #============================================================================================
 
 #============================================================================================
-# Imports (ensure all modules are installed on your system)
+# Imports (ensure all modules are installed on your system) 
 #============================================================================================
 
 import sys, getopt, string, time, os
@@ -81,7 +81,9 @@ VERSION_HISTORY = '''
   - First Github public release
       
 TODO:
+  - Does not work in case of log rotation (/etc/synolog/synobackup.log.0)
   - Check version rotation completion / errors
+  - Documentation for Nagios / NRPE installation
 '''
 
 
